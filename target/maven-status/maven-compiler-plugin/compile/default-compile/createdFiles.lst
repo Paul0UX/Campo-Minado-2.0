@@ -1,0 +1,10 @@
+main\java\minessweeper\environment\Cell.class
+minessweeper\utilitarios\Main.class
+main\java\minessweeper\environment\MinesweeperBoard.class
+main\java\minessweeper\gui\GameGui.class
+main\java\minessweeper\ias\IAAgenteBDI.class
+main\java\minessweeper\utilitarios\AgentMessages.class
+main\java\minessweeper\monitor\MonitorAgent.class
+main\java\minessweeper\environment\EnvironmentAgent.class
+main\java\minessweeper\utilitarios\GameState.class
+main\java\minessweeper\ias\IAAgente.class
